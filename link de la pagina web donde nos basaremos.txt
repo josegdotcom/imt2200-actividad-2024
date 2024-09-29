@@ -1,0 +1,10 @@
+1- jose g
+2- cielo l
+
+link repositorio economia (1): https://github.com/bastianolea/economia_chile
+link repositorio comp_mapas (1): https://github.com/bastianolea/comparador_mapas_chile
+link repositorio ind_del (2): https://github.com/bastianolea/delincuencia_chile
+link repositorio corupcion(2): https://github.com/bastianolea/corrupcion_chile
+
+link de referencia:
+	- link ind_del (cead): https://cead.spd.gov.cl/estadisticas-delictuales/
