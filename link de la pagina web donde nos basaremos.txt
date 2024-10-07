@@ -3,10 +3,10 @@
 
 regla: extraccion de datos desde 2018 hasta 2018.
 
-link repositorio economia (1): https://github.com/bastianolea/economia_chile
-link repositorio comp_mapas (1): https://github.com/bastianolea/comparador_mapas_chile
-link repositorio ind_del (2): https://github.com/bastianolea/delincuencia_chile
-link repositorio corupcion(2): https://github.com/bastianolea/corrupcion_chile
+link referencia economia (1): https://github.com/bastianolea/economia_chile
+link referencia comp_mapas (1): https://github.com/bastianolea/comparador_mapas_chile
+link referencia ind_del (2): https://github.com/bastianolea/delincuencia_chile
+link referencia corupcion(2): https://github.com/bastianolea/corrupcion_chile
 
 link de referencia:
 
