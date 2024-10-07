@@ -1,10 +1,33 @@
 1- jose g
 2- cielo l
 
+regla: extraccion de datos desde 2018 hasta 2018.
+
 link repositorio economia (1): https://github.com/bastianolea/economia_chile
 link repositorio comp_mapas (1): https://github.com/bastianolea/comparador_mapas_chile
 link repositorio ind_del (2): https://github.com/bastianolea/delincuencia_chile
 link repositorio corupcion(2): https://github.com/bastianolea/corrupcion_chile
 
 link de referencia:
+
+	- link ind_deslab (banco central): https://si3.bcentral.cl/Siete/ES/Siete/Cuadro/CAP_ESTADIST_MACRO/MN_EST_MACRO_IV/PEM_ML_FT_M/PEM_ML_FT_M?cbFechaInicio=2018&cbFechaTermino=2024&cbFrecuencia=MONTHLY&cbCalculo=NONE&cbFechaBase=
+	- link ipc (banco central): https://si3.bcentral.cl/Siete/ES/Siete/Cuadro/CAP_PRECIOS/MN_CAP_PRECIOS/IPC_EMP_2023/638415285164039007?cbFechaInicio=2018&cbFechaTermino=2024&cbFrecuencia=MONTHLY&cbCalculo=NONE&cbFechaBase=
+	- link ipsa (banco central): https://si3.bcentral.cl/Siete/ES/Siete/Cuadro/CAP_ESTADIST_MACRO/MN_EST_MACRO_IV/PEM_INDBUR/PEM_INDBUR?cbFechaInicio=2018&cbFechaTermino=2024&cbFrecuencia=MONTHLY&cbCalculo=NONE&cbFechaBase=
+	- link pib (banco central): https://si3.bcentral.cl/Siete/ES/Siete/Cuadro/CAP_CCNN/MN_CCNN76/CCNN2018_P0_V2/637801082315858005?cbFechaInicio=2018&cbFechaTermino=2023&cbFrecuencia=QUARTERLY&cbCalculo=NONE&cbFechaBase=
+	- link imr (ine): https://stat.ine.cl/Index.aspx?DataSetCode=IR_IR2016#
+	- link ipi (ine): https://www.ine.gob.cl/estadisticas/economia/industria-manufacturera/indice-de-produccion-industrial
+
+	- link geopandas (github): https://github.com/zorzalerrante/carto-en-python/blob/master/01%20-%20GeoPandas.ipynb
+	- link censo (ine): https://www.ine.gob.cl/estadisticas/sociales/censos-de-poblacion-y-vivienda/censo-de-poblacion-y-vivienda
+
 	- link ind_del (cead): https://cead.spd.gov.cl/estadisticas-delictuales/
+
+traductor:
+ind_del = indice de delincuecia
+ind_deslab = indice de desempleo
+ipc = indice de precios al consumidor
+ipsa = indice de Precios Selectivo de Acciones
+pib = producto interno bruto
+imr = ingreso mediano real
+ine = instituto nacional de estadistica
+ipi = indice de produccion industrial
