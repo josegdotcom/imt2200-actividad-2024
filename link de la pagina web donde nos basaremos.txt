@@ -22,6 +22,9 @@ link de referencia:
 
 	- link ind_del (cead): https://cead.spd.gov.cl/estadisticas-delictuales/
 
+	- link soli_data_deli (cead): https://www.portaltransparencia.cl/PortalPdT/ingreso-sai-v2?idOrg=undefined
+	- link datos_login (cead): https://cead.spd.gov.cl/sistemas-internos-cead/
+
 traductor:
 ind_del = indice de delincuecia
 ind_deslab = indice de desempleo
@@ -31,3 +34,4 @@ pib = producto interno bruto
 imr = ingreso mediano real
 ine = instituto nacional de estadistica
 ipi = indice de produccion industrial
+soli_data_deli  = solicitar información de datos de delincuencia
