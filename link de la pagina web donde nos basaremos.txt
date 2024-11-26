@@ -1,12 +1,7 @@
 1- jose g
 2- cielo l
 
-regla: extraccion de datos desde 2018 hasta 2018.
-
-link referencia economia (1): https://github.com/bastianolea/economia_chile
-link referencia comp_mapas (1): https://github.com/bastianolea/comparador_mapas_chile
-link referencia ind_del (2): https://github.com/bastianolea/delincuencia_chile
-link referencia corupcion(2): https://github.com/bastianolea/corrupcion_chile
+regla: extraccion de datos desde 2018 hasta 2024.
 
 link de referencia:
 
