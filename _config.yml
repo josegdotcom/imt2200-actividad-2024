@@ -1,0 +1,31 @@
+title: "Mi sitio web"
+description: "Un blog sencillo creado con Jekyll y GitHub Pages"
+remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+
+
+# remote_theme: pages-themes/time-machine@v0.2.0
+# plugins:
+#  - jekyll-remote-theme
+markdown: kramdown
+
+
+header_pages:
+  - about.md
+
+include:
+  - figuras
+
+assets:
+  - figuras
+  
+author:
+  name: "Nombre del Autor"
+  email: "correo@ejemplo.com"
+
+feed:
+  path: "feed.xml"
