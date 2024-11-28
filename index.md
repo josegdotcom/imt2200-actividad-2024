@@ -8,4 +8,12 @@
 layout: home
 ---
 
-# HOLAAAAAAAAAAA
+# **LA DELINCUENCIA Y SU RELACIÓN CON LA ECONOMÍA**
+
+---
+
+## **Creadores**
+- **Cielo Lozada**
+- **José García**
+
+---
