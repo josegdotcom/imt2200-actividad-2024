@@ -11,6 +11,21 @@ Por este motivo, es posible que encuentren diferencias entre las preguntas plant
 
 Les invitamos a explorar el repositorio vinculado para acceder a todos los dataframes, tablas y gráficos utilizados en este análisis. Estos recursos están a su disposición y pueden ser útiles si desean profundizar o utilizarlos en sus propios proyectos. Sin más preámbulos, les presentamos las cinco preguntas que decidimos abordar.
 
+---
+
+## **preguntas planteadas**
+###    1- ¿Existe una relacion significativa entre las tasas de desempleo y el aumento de la criminalidad en la region metropolitana?
+
+###    2- ¿Como influye la riqueza de una Región en la concentracion de delitos en diferentes regiones de Chile?
+
+###    3- ¿Existe alguna relación entre el consumo de los hogares y los delitos por región?
+
+###    4- ¿Es posible predecir aumentos en la criminalidad basandose en variaciones mensuales en la tasa de inflacion y desempleo?
+
+###    5- ¿Existen diferencias significativas en la criminalidad entre las zonas urbanas y rurales de la region metropolitana, y que factores pueden explicarlas?
+
+---
+
  *Link del repositorio*: [https://github.com/josegdotcom/imt2200-actividad-2024](https://github.com/josegdotcom/imt2200-actividad-2024)
 
 
