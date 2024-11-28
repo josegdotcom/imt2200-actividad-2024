@@ -6,7 +6,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
----
+
+
 
 # **LA DELINCUENCIA Y SU RELACIÓN CON LA ECONOMÍA**
 
