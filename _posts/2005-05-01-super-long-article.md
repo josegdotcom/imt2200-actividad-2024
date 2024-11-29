@@ -10,3 +10,20 @@ categories: misc
 <iframe src="{{ '/figuras/Pregunta1.html' | relative_url }}" width="100%" height="600"></iframe>
 
 <iframe src="{{ '/figuras/Pregunta1.1.html' | relative_url }}" width="100%" height="600"></iframe>
+
+
+#### **Pregunta 2**
+##### ¿Como influye la riqueza de una Región en la concentracion de delitos en diferentes regiones de Chile?
+
+<iframe src="{{ '/figuras/Pregunta2.html' | relative_url }}" width="100%" height="600"></iframe>
+
+
+#### **Pregunta 3**
+##### ¿Existe alguna relación entre el consumo de los hogares y los delitos por región?
+
+#### **Pregunta 4**
+##### ¿Es posible predecir aumentos en la criminalidad basandose en variaciones mensuales en la tasa de inflacion y desempleo?
+
+#### **Pregunta 5**
+##### ¿Existen diferencias significativas en la criminalidad entre las zonas urbanas y rurales de la region metropolitana, y que factores pueden explicarlas?
+
