@@ -25,6 +25,9 @@ categories: misc
 
 #### **Pregunta 4**
 ##### ¿Es posible predecir aumentos en la criminalidad basandose en variaciones mensuales en la tasa de inflacion y desempleo?
+<iframe src="{{ '/figuras/Pregunta4.html' | relative_url }}" width="100%" height="600"></iframe>
+<iframe src="{{ '/figuras/Pregunta4.1.html' | relative_url }}" width="100%" height="600"></iframe>
+<iframe src="{{ '/figuras/Pregunta4.2.html' | relative_url }}" width="100%" height="600"></iframe>
 
 #### **Pregunta 5**
 ##### ¿Existen diferencias significativas en la criminalidad entre las zonas urbanas y rurales de la region metropolitana, y que factores pueden explicarlas?
