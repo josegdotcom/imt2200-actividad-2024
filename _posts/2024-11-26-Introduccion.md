@@ -13,16 +13,16 @@ Les invitamos a explorar el repositorio vinculado para acceder a todos los dataf
 
 ---
 
-## **PREGUNTAS PLANTEADAS**
-#####    1- ¿Existe una relacion significativa entre las tasas de desempleo y el aumento de la criminalidad en la region metropolitana?
+### PREGUNTAS PLANTEADAS
+1- ¿Existe una relacion significativa entre las tasas de desempleo y el aumento de la criminalidad en la region metropolitana?
 
-#####    2- ¿Como influye la riqueza de una Región en la concentracion de delitos en diferentes regiones de Chile?
+2- ¿Como influye la riqueza de una Región en la concentracion de delitos en diferentes regiones de Chile?
 
-#####    3- ¿Existe alguna relación entre el consumo de los hogares y los delitos por región?
+3- ¿Existe alguna relación entre el consumo de los hogares y los delitos por región?
 
-#####    4- ¿Es posible predecir aumentos en la criminalidad basandose en variaciones mensuales en la tasa de inflacion y desempleo?
+4- ¿Es posible predecir aumentos en la criminalidad basandose en variaciones mensuales en la tasa de inflacion y desempleo?
 
-#####    5- ¿Existen diferencias significativas en la criminalidad entre las zonas urbanas y rurales de la region metropolitana, y que factores pueden explicarlas?
+5- ¿Existen diferencias significativas en la criminalidad entre las zonas urbanas y rurales de la region metropolitana, y que factores pueden explicarlas?
 
 ---
 
