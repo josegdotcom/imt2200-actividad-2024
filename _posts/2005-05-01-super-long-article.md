@@ -16,7 +16,7 @@ categories: misc
 ##### ¿Como influye la riqueza de una Región en la concentracion de delitos en diferentes regiones de Chile?
 
 <iframe src="{{ '/figuras/Pregunta2.html' | relative_url }}" width="100%" height="600"></iframe>
-
+<iframe src="{{ '/figuras/Pregunta2.1.html' | relative_url }}" width="100%" height="600"></iframe>
 
 #### **Pregunta 3**
 ##### ¿Existe alguna relación entre el consumo de los hogares y los delitos por región?
