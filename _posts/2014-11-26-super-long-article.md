@@ -55,7 +55,9 @@ En esta sección, describimos las variables utilizadas en nuestro análisis, pro
 - **Saldo de cuentas a la vista por región (en millones de pesos)**  
   Monto total disponible en cuentas a la vista, expresado en millones de pesos.
 
-### 3. **Fuerza de Trabajo, Ocupados y Tasa de Desocupación**
+---
+
+## Fuerza de Trabajo, Ocupados y Tasa de Desocupación
 
 - **Tasa de Desocupación**  
   Porcentaje de personas activas en la fuerza laboral sin empleo, buscando trabajo activamente.
@@ -66,7 +68,9 @@ En esta sección, describimos las variables utilizadas en nuestro análisis, pro
 - **Ocupados (Miles de personas)**  
   Personas empleadas dentro de la fuerza laboral.
 
-### 4. **Otros**
+---
+
+## Otros
 
 - **PIB Regional**  
   Riqueza generada en una región:  
