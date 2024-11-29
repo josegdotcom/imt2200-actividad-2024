@@ -31,4 +31,4 @@ categories: misc
 
 #### **Pregunta 5**
 ##### ¿Existen diferencias significativas en la criminalidad entre las zonas urbanas y rurales de la region metropolitana, y que factores pueden explicarlas?
-
+<iframe src="{{ '/figuras/Pregunta5.html' | relative_url }}" width="100%" height="600"></iframe>
