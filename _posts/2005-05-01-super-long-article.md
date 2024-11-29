@@ -20,6 +20,8 @@ categories: misc
 
 #### **Pregunta 3**
 ##### ¿Existe alguna relación entre el consumo de los hogares y los delitos por región?
+<iframe src="{{ '/figuras/Pregunta3.html' | relative_url }}" width="100%" height="600"></iframe>
+
 
 #### **Pregunta 4**
 ##### ¿Es posible predecir aumentos en la criminalidad basandose en variaciones mensuales en la tasa de inflacion y desempleo?
