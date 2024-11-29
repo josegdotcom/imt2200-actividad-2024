@@ -10,19 +10,19 @@ En esta sección, describimos las variables utilizadas en nuestro análisis, pro
 
 ## Base de Datos de los Índices de Criminalidad
 
-### 1. **Delitos Violentos**  
+#### 1. **Delitos Violentos**  
    - Índice expresado como la tasa por cada 100.000 habitantes.  
    - Representa delitos clasificados como violentos, tales como el *hurto con violencia*, según la legislación.
 
-### 2. **Delitos Asociados a las Drogas**  
+#### 2. **Delitos Asociados a las Drogas**  
    - Índice expresado como la tasa por cada 100.000 habitantes.  
    - Incluye delitos relacionados con la ley de drogas, como la *posesión de sustancias estupefacientes ilegales*.
 
-### 3. **Delitos Asociados a las Armas**  
+#### 3. **Delitos Asociados a las Armas**  
    - Índice expresado como la tasa por cada 100.000 habitantes.  
    - Considera delitos que infringen la ley de armas, como la *posesión no autorizada de armas de fuego*.
 
-### 4. **Delitos Contra la Propiedad No Violentos e Incivilidades**  
+#### 4. **Delitos Contra la Propiedad No Violentos e Incivilidades**  
    - Índice expresado como la tasa por cada 100.000 habitantes.  
    - Agrupa delitos y conductas incívicas, como el *vandalismo en espacios públicos*, que afectan la propiedad pública.
 
@@ -30,7 +30,7 @@ En esta sección, describimos las variables utilizadas en nuestro análisis, pro
 
 ## Base de Datos de Economía
 
-### 1. **Consumo de Hogares e IPSFL**
+#### 1. **Consumo de Hogares e IPSFL**
 
 - **Consumo de hogares**  
   Gasto total realizado por las familias en bienes y servicios (alimentación, vivienda, transporte, educación, salud, etc.).
@@ -38,7 +38,7 @@ En esta sección, describimos las variables utilizadas en nuestro análisis, pro
 - **IPSFL (Instituciones Privadas Sin Fines de Lucro)**  
   Organizaciones no gubernamentales (ONGs, fundaciones, asociaciones) que brindan servicios a los hogares financiados por donaciones o cuotas.
 
-### 2. **Tenencia y Saldos en Cuentas Corrientes y Vista (Indicadores Financieros)**
+#### 2. **Tenencia y Saldos en Cuentas Corrientes y Vista (Indicadores Financieros)**
 
 - **Número de cuentas corrientes de personas naturales en moneda nacional**  
   Total de cuentas corrientes pertenecientes a individuos en pesos chilenos.
@@ -56,7 +56,7 @@ En esta sección, describimos las variables utilizadas en nuestro análisis, pro
   Monto total disponible en cuentas a la vista, expresado en millones de pesos.
 
 
-### 3. Fuerza de Trabajo, Ocupados y Tasa de Desocupación
+#### 3. **Fuerza de Trabajo, Ocupados y Tasa de Desocupación**
 
 - **Tasa de Desocupación**  
   Porcentaje de personas activas en la fuerza laboral sin empleo, buscando trabajo activamente.
@@ -67,7 +67,7 @@ En esta sección, describimos las variables utilizadas en nuestro análisis, pro
 - **Ocupados (Miles de personas)**  
   Personas empleadas dentro de la fuerza laboral.
 
-### 4.  Otros
+#### 4.  **Otros**
 
 - **PIB Regional**  
   Riqueza generada en una región:  
