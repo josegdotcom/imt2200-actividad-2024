@@ -165,7 +165,7 @@ En resumen, los resultados sugieren que:
 
 ### Análisis de Criminalidad en la Región Metropolitana
 
-Gracias a la función que se desarrolló utilizando **GeoPandas**, he podido analizar los distintos tipos de criminalidad en las comunas de la **Región Metropolitana**. Cabe mencionar que algunas comunas no se encuentran en el análisis, entre ellas: **Lampa**, **Tiltil**, **Conchalí**, **Huechuraba**, **La Pintana** y **Pirque**.
+Gracias a la función que se desarrolló utilizando **GeoPandas**, se ha podido analizar los distintos tipos de criminalidad en las comunas de la **Región Metropolitana**. Cabe mencionar que algunas comunas no se encuentran en el análisis, entre ellas: **Lampa**, **Tiltil**, **Conchalí**, **Huechuraba**, **La Pintana** y **Pirque**.
 
 #### Zonas Urbanas vs. Zonas Rurales
 
