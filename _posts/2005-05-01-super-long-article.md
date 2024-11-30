@@ -163,5 +163,52 @@ En resumen, los resultados sugieren que:
     </video>
 </div>
 
+### Análisis de Criminalidad en la Región Metropolitana
+
+Gracias a la función que se desarrolló utilizando **GeoPandas**, he podido analizar los distintos tipos de criminalidad en las comunas de la **Región Metropolitana**. Cabe mencionar que algunas comunas no se encuentran en el análisis, entre ellas: **Lampa**, **Tiltil**, **Conchalí**, **Huechuraba**, **La Pintana** y **Pirque**.
+
+#### Zonas Urbanas vs. Zonas Rurales
+
+Es evidente que las **zonas urbanas** presentan índices de criminalidad significativamente más altos, algo que se puede observar claramente en el **mapa geográfico** presentado anteriormente. En dicho mapa:
+
+- **Rojo**: Áreas rurales
+- **Azul**: Áreas urbanas
+
+#### Áreas con Mayores Índices de Criminalidad
+
+Destacan especialmente las siguientes áreas:
+
+- **Centro de Santiago**
+- **Melipilla**
+- **Colina**
+
+Estas comunas consistentemente muestran los índices más altos de criminalidad en general. Este patrón coincide con el análisis general de criminalidad de la región, que observó:
+
+- **Aumento significativo** de los delitos de **incivilidad** durante los años del **estallido social**.
+- **Leve disminución general** de los índices delictivos en otros periodos.
+
+#### Comunas Más Seguras
+
+En cuanto a las comunas consideradas más "seguras" a lo largo del tiempo, destacan las siguientes:
+
+- **San José de Maipo**
+- **Lo Barnechea**
+- **Alhué**
+- **María Pinto**
+- **San Pedro**
+
+Entre estas, **Lo Barnechea** es la que presenta los índices de criminalidad más altos dentro del grupo de las comunas más seguras.
+
+#### Posibles Explicaciones para los Altos Índices de Criminalidad
+
+1. **Centro de Santiago**: Su condición de **capital**, alta densidad poblacional y concentración de actividades económicas y sociales podrían explicar los altos índices de criminalidad. Estas características aumentan la probabilidad de que ocurran delitos.
+   
+2. **Melipilla**: Aunque es una comuna rural, presenta una mayor densidad de población y su ubicación estratégica, atravesada por la **Autopista del Sol (Ruta 78)**, facilita la conexión con el puerto de **San Antonio** y el **litoral central**, lo que podría explicar su alta criminalidad.
+
+3. **Colina**: A pesar de que sus índices de criminalidad son elevados, no tengo una hipótesis clara que explique estos altos niveles recurrentes. Este fenómeno podría requerir un análisis más profundo.
+
+### Conclusiones
+
+En resumen, el análisis reafirma la tendencia de mayores índices de criminalidad en **zonas urbanas** y destaca patrones específicos en algunas comunas. Estos patrones invitan a reflexionar sobre las características y particularidades de cada comuna, lo que podría ayudar a identificar factores adicionales que influyen en los índices de criminalidad.
 
 
