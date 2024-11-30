@@ -25,7 +25,8 @@ assets:
   
 author:
   name: "Contacto"
-  email: "jgarciat4@estudiante.uc.cl - mlozadap@estudiante.uc.cl"
+  email: "jgarciat4@estudiante.uc.cl"
+  email: "mlozadap@estudiante.uc.cl"
 
 feed:
   path: "feed.xml"
