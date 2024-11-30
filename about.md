@@ -4,22 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Este proyecto forma parte del curso de Introducción a Ciencia de Datos, impartido por el Profesor Rodrigo Carrazco. El objetivo principal es analizar datos económicos y delictivos de diferentes regiones de Chile, buscando identificar patrones y relaciones que puedan ayudar a comprender mejor la criminalidad en el país.
 
 
-[jekyll-organization]: https://github.com/jekyll
-
-
-
-# Mi Gráfico Interactivo
-
-<iframe src="{{ '/figuras/interactive_plot.html' | relative_url }}" width="100%" height="600"></iframe>
-<iframe src="{{ '/figuras/interactive_plot_2.html' | relative_url }}" width="100%" height="600"></iframe>
