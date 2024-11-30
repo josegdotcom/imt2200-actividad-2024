@@ -12,7 +12,7 @@ categories: misc
 <iframe src="{{ '/figuras/Pregunta1.1.html' | relative_url }}" width="100%" height="600"></iframe>
 
 
-##### Análisis de la relación entre la tasa de desocupación y delitos en la Región Metropolitana
+### Análisis de la relación entre la tasa de desocupación y delitos en la Región Metropolitana
 
 **Delitos violentos:**
 El análisis sugiere que la relación entre la tasa de desocupación y los delitos violentos presenta una posible segmentación en dos grupos. El grupo predominante, denominado *cluster inferior*, muestra una **relación positiva**, donde a medida que aumenta la tasa de desocupación, también se incrementa la cantidad de delitos violentos. Este patrón podría estar asociado a factores como la frustración económica o tensiones sociales.
@@ -31,27 +31,36 @@ En este análisis, se observa una clara **relación negativa** entre la tasa de 
 **Incivilidades y otros delitos:**
 En cuanto a las incivilidades y otros delitos, la relación con la tasa de desocupación parece ser **dispersa**, sin un patrón claro que permita establecer una conexió
 
+--- 
 ### **Pregunta 2**
 ##### ¿Como influye la riqueza de una Región en la concentracion de delitos en diferentes regiones de Chile?
 
 <iframe src="{{ '/figuras/Pregunta2.html' | relative_url }}" width="100%" height="600"></iframe>
 <iframe src="{{ '/figuras/Pregunta2.1.html' | relative_url }}" width="100%" height="600"></iframe>
-
+---
 ### **Pregunta 3**
 ##### ¿Existe alguna relación entre el consumo de los hogares y los delitos por región?
 <iframe src="{{ '/figuras/Pregunta3.html' | relative_url }}" width="100%" height="600"></iframe>
 
-
+---
 ### **Pregunta 4**
 ##### ¿Es posible predecir aumentos en la criminalidad basandose en variaciones mensuales en la tasa de inflacion y desempleo?
 <iframe src="{{ '/figuras/Pregunta4.html' | relative_url }}" width="100%" height="600"></iframe>
 <iframe src="{{ '/figuras/Pregunta4.1.html' | relative_url }}" width="100%" height="600"></iframe>
 <iframe src="{{ '/figuras/Pregunta4.2.html' | relative_url }}" width="100%" height="600"></iframe>
-
+---
 ### **Pregunta 5**
 ##### ¿Existen diferencias significativas en la criminalidad entre las zonas urbanas y rurales de la region metropolitana, y que factores pueden explicarlas?
-<iframe src="{{ '/figuras/Pregunta5.html' | relative_url }}" width="100%" height="600"></iframe>
 
-<video width="640" height="360" controls>
-  <source src="{{ '/figuras/Pregunta5.mp4' | relative_url }}" type="video/mp4">
-</video>
+<div style="text-align: center; margin: 0 auto;">
+    <iframe src="{{ '/figuras/Pregunta5.html' | relative_url }}" width="100%" height="600"></iframe>
+</div>
+
+<div style="text-align: center; margin: 0 auto;">
+    <video width="640" height="360" controls>
+        <source src="{{ '/figuras/Pregunta5.mp4' | relative_url }}" type="video/mp4">
+    </video>
+</div>
+
+
+
