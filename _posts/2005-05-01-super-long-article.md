@@ -53,5 +53,5 @@ En cuanto a las incivilidades y otros delitos, la relación con la tasa de desoc
 <iframe src="{{ '/figuras/Pregunta5.html' | relative_url }}" width="100%" height="600"></iframe>
 
 <video width="640" height="360" controls>
-  <source src="figuras/Pregunta5.mp4" type="video/mp4">
+  <source src="{{ '/figuras/Pregunta5.mp4' | relative_url }}" type="video/mp4">
 </video>
