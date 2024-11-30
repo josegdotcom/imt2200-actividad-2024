@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Acerca del Proyecto
 permalink: /about/
 ---
 
