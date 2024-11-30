@@ -1,5 +1,5 @@
-title: "Mi sitio web"
-description: "Un blog sencillo creado con Jekyll y GitHub Pages"
+title: "Proyecto de Análisis de Datos"
+description: "Análisis de criminalidad y factores económicos en Chile"
 remote_theme: jekyll/minima
 
 plugins:
@@ -24,8 +24,8 @@ assets:
   - figuras
   
 author:
-  name: "Nombre del Autor"
-  email: "correo@ejemplo.com"
+  name: "Contacto"
+  email: "jgarciat4@estudiante.uc.cl - mlozadap@estudiante.uc.cl"
 
 feed:
   path: "feed.xml"
